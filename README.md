@@ -21,9 +21,4 @@ and dynamically changes background images based on the searched city.
 2. Add your API keys in `script.js`
 3. Open `index.html` in browser
 
-## 📸 Preview
-(Add screenshots here)
-
----
-
 Made with ❤️ by Gunjan Tomar
